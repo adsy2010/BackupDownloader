@@ -32,3 +32,5 @@ You can compile the application manually at this time only.
   BACKUP_DIRECTORY="C:\Users\me\backup folders\automated"
   REMOTE_DIRECTORIES="/var/www/sites/mysite.co.uk/backups;/var/www/sites/mysecondsite.co.uk/backups"
 </pre>
+
+The next time you run the application it will sync all files from the remote directories to the chosen local directory. This is a one way transfer and will not remove any files from either side of the connection. As there is 0 loss of data from either side, you can safely setup a scheduled task to run the application as often as you like.
