@@ -1,0 +1,15 @@
+C:\Users\adsy2\source\repos\BackupDownloader\BackupDownloader\bin\Debug\WinSCPnet.dll
+C:\Users\adsy2\source\repos\BackupDownloader\BackupDownloader\bin\Debug\WinSCP.exe
+C:\Users\adsy2\source\repos\BackupDownloader\BackupDownloader\bin\Debug\BackupDownloader.exe.config
+C:\Users\adsy2\source\repos\BackupDownloader\BackupDownloader\bin\Debug\BackupDownloader.exe.manifest
+C:\Users\adsy2\source\repos\BackupDownloader\BackupDownloader\bin\Debug\BackupDownloader.application
+C:\Users\adsy2\source\repos\BackupDownloader\BackupDownloader\bin\Debug\BackupDownloader.exe
+C:\Users\adsy2\source\repos\BackupDownloader\BackupDownloader\bin\Debug\BackupDownloader.pdb
+C:\Users\adsy2\source\repos\BackupDownloader\BackupDownloader\obj\Debug\BackupDownloader.csprojAssemblyReference.cache
+C:\Users\adsy2\source\repos\BackupDownloader\BackupDownloader\obj\Debug\BackupDownloader.csproj.CoreCompileInputs.cache
+C:\Users\adsy2\source\repos\BackupDownloader\BackupDownloader\obj\Debug\BackupDownloader.TrustInfo.xml
+C:\Users\adsy2\source\repos\BackupDownloader\BackupDownloader\obj\Debug\BackupDownloader.exe.manifest
+C:\Users\adsy2\source\repos\BackupDownloader\BackupDownloader\obj\Debug\BackupDownloader.application
+C:\Users\adsy2\source\repos\BackupDownloader\BackupDownloader\obj\Debug\BackupDownloader.csproj.CopyComplete
+C:\Users\adsy2\source\repos\BackupDownloader\BackupDownloader\obj\Debug\BackupDownloader.exe
+C:\Users\adsy2\source\repos\BackupDownloader\BackupDownloader\obj\Debug\BackupDownloader.pdb
