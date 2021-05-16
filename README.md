@@ -6,7 +6,7 @@ This application was built due to a need to download files from a remote server 
 
 You can compile the application manually at this time only. 
 
-- Copy all files from bin/release or bin/debug into a directory you plan on running the application from
+- Copy all files from `bin/release` or `bin/debug` into a directory you plan on running the application from
 - Run the BackupDownloader.exe application
 - Fill in the BackupDownloader.ini files SSH section and save
   - [SSH]
